@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "text": "Mattress",
+      "price": "$599.99"
+    },
+    {
+      "id": 2,
+      "text": "Pillow",
+      "price": "$5.99"
+    },
+    {
+      "id": 3,
+      "text": "Duvet",
+      "price": "$59.99"
+    }
+  ]
+}
